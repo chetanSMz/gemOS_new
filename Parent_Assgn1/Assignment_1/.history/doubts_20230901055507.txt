@@ -1,0 +1,5 @@
+what is the difference between exit(1) and exit(-1)
+
+working of strcat
+
+should I put return 0 or not

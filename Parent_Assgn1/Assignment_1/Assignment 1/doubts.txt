@@ -1,0 +1,5 @@
+should I use ssize_t
+
+relative path meaning, can the directory be given outside of the currently running program
+
+#include<limits.h>
